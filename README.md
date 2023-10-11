@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello There 👋, I'm Majd</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=majdassad22&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="majdassad22" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=majdassad22&label=Profile%20views&color=0e75b6&style=for-the-badge" /> </p>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=majdassad22&theme=flat&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="trophies" />
