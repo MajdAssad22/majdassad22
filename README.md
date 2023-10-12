@@ -35,8 +35,12 @@
 
 
 <h2 align="left">GitHub Stats:</h2>
+
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en&hide_border=true&theme=default#gh-light-mode-only" alt="My github profile stats"/>
+
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en&hide_border=true&theme=default#gh-light-mode-only" alt="My github profile stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&hide_border=true&layout=compact&card_width=320&theme=default#gh-light-mode-only" alt="My language stats"/>
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22&hide_border=true&theme=default#gh-light-mode-only" alt="My streak stats"/>
+  <details>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&hide_border=true&layout=compact&card_width=320&theme=default#gh-light-mode-only" alt="My language stats"/>
+    <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22&hide_border=true&theme=default#gh-light-mode-only" alt="My streak stats"/>
+  </details>
 </p>
