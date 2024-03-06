@@ -12,16 +12,17 @@
 
 - 🌱 I’m currently learning **Game Development & Artificial Intelligence**
 
-- 📫 How to reach me **majdassad123@gmail.com**
-
-
 <br/>
 
-
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/majd-assad-670b29213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majd-assad-670b29213" height="30" width="40" /></a>
-</p>
+
+<a href="https://linkedin.com/in/majd-assad-670b29213" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin username majd-assad-670b29213" height="48" width="48" />
+</a>
+
+<a href="mailto:majdassad123@gmail.com" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/message-squared.png" alt="majd-assad-670b29213" height="48" width="48" />
+</a>
 
 
 <br/>
@@ -36,11 +37,6 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en&hide_border=true&theme=default#gh-light-mode-only" alt="My github profile stats"/>
-
-<p align="center">
-  <details>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&hide_border=true&layout=compact&card_width=320&theme=default#gh-light-mode-only" alt="My language stats"/>
-    <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22&hide_border=true&theme=default#gh-light-mode-only" alt="My streak stats"/>
-  </details>
-</p>
+<img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en&hide_border=true&theme=default#gh-light-mode-only" alt="My github profile stats"/>
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&hide_border=true&layout=compact&card_width=320&theme=default#gh-light-mode-only" alt="My language stats"/>
+<img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22&hide_border=true&theme=default#gh-light-mode-only" alt="My streak stats"/>
