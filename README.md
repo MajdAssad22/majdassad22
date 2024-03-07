@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <div align="center">
   <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en" alt="My github profile stats"/>
-  <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&layout=compact" alt="My language stats"/>
+  &nbsp;<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&layout=compact" alt="My language stats"/>
 </div>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=majdassad22&theme=flat&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="trophies" />
