@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello There 👋, I'm Majd</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=majdassad22&label=Profile%20views&color=0e75b6&style=for-the-badge" /> </p>
@@ -27,6 +26,6 @@
 
 <h2 align="left">GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&hide_border=true&layout=compact" alt="My language stats"/></p>
-<p></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en&hide_border=true" alt="My github profile stats"/></p>
-<p></p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22&hide_border=true" alt="My streak stats"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&layout=compact" alt="My language stats"/></p>
+<p></p><img align="center" src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en" alt="My github profile stats"/></p>
+<p></p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22" alt="My streak stats"/></p>
