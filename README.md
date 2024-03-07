@@ -1,6 +1,11 @@
 <h1 align="center">Hello There 👋, I'm Majd</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=majdassad22&label=Profile%20views&color=0e75b6&style=for-the-badge" /> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=majdassad22&theme=flat&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="trophies" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Lunar Star**
 
@@ -21,13 +26,9 @@
 
 <br/>
 
+<h2 align="left">Github Stats:</h2>
 <div align="center">
-  <img style="height:200px; width: 100vw" src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en" alt="My github profile stats"/>
-  <img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22" alt="My streak stats"/>
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=majdassad22&show_icons=true&locale=en" alt="My github profile stats"/>
   <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=majdassad22&show_icons=true&locale=en&layout=compact" alt="My language stats"/>
+  <img style="height: 200px; width: 100vw;" src="https://github-readme-streak-stats.herokuapp.com/?user=majdassad22" alt="My streak stats"/>
 </div>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=majdassad22&theme=flat&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
-</p>
